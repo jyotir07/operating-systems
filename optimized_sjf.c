@@ -1,4 +1,5 @@
 //in this code I have removed sorting and made it a little more opnimized     
+//author: Jyotiraditya Singh
 #include <stdio.h>
 
 struct Process {
