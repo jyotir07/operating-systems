@@ -1,5 +1,5 @@
+//author: Jyotiraditya Singh
 #include <stdio.h>
-
 struct Process {
     int id;
     int burst;
