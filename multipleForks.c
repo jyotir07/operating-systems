@@ -7,6 +7,7 @@ int main(void)
   fork();
   fork();
   fork();
-  printf("Hello World ");
+  //if we use 'space' in double quots in print statement, 
+  printf("Hello World ");  //weird thing fork does it returns different outputs for some reason in multiple compilers 
   return 0;
 }
