@@ -1,0 +1,15 @@
+## Operating Systems (lab)
+
+## Fork system calling:
+
+- The fork system call allows the creation of new process.
+- The new process that is created is called as child process.
+- There are different values written by fork system call:
+    - Negative value: Creation of child process was unsuccessful
+    - Zero value: Returned to the newly created child process
+    - Positive value: The value contains the process ID of the newly created child process
+
+The fork system call is used to create a new process, known as a child process. It returns different values to indicate the outcome of the creation process. A negative value is returned if the creation of the child process was unsuccessful. A zero value is returned to the newly created child process. Lastly, a positive value is returned, which represents the process ID of the newly created child process.
+
+- getpid(): It returns the process ID of the current process
+- getppid(): It returns the process ID of the parent of the current process
