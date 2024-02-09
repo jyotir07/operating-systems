@@ -12,7 +12,6 @@ struct Process
   int turnaround_time;
   int waiting_time;
 };
-
 // Function to calculate turnaround time and waiting time for each process
 void calculateTimes(struct Process processes[], int n)
 {
