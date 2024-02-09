@@ -1,3 +1,4 @@
+// Author: jyotir07 @github
 #include <stdio.h>
 
 // Structure to represent a process
