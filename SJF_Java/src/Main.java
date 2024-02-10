@@ -1,5 +1,5 @@
 //java program for SJF (Shortest Job First) process scheduling
-//Author: Jyotiraditya Singh
+//Author: jyotir07 @github
 import java.util.Scanner;
 class Process {
     int id;
